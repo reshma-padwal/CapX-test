@@ -1,1 +1,1 @@
-My changed task my new changes added in file
+My changed task my new changes added in file.changes after clone
